@@ -11,7 +11,7 @@ rm -rf ~/.local/share/nvim
 rm -rf ~/.cache/nvim
 ```
 
-2. Reinstall your config (LazyVim Starter or your own):
+2. Reinstall your config:
 ```
 git clone https://github.com/LazyVim/starter ~/.config/nvim
 ```
